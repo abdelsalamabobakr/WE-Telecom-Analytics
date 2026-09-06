@@ -5,6 +5,7 @@
 <img width="767" height="527" alt="لقطة شاشة 2026-09-06 183224" src="https://github.com/user-attachments/assets/0f5b764f-4c99-49ae-9da8-80f7a45c4e71" />
 # WE-Telecom-Analytics
 Power BI analytics dashboard covering churn analysis, network performance, and revenue KPIs for 50K telecom customers
+
 ## 🛠️ Tools & Technologies
 * **Power BI Desktop**: Data Modeling, Interactive Dashboard Creation, and Visualization.
 * **DAX (Data Analysis Expressions)**: Calculated Measures and Columns for KPIs (Churn Rate, Revenue, Downtime).
